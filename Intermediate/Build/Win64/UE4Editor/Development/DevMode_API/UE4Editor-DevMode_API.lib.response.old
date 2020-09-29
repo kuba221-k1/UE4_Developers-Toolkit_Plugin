@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DevMode_API.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Jakub_Workspace_Huawei\CoopGame\Intermediate\Build\Win64\AI_Coop_GameEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Jakub_Workspace_Huawei\CoopGame\Plugins\Developers_Toolkit\Intermediate\Build\Win64\UE4Editor\Development\DevMode_API\Module.DevMode_API.cpp.obj"
+"D:\Jakub_Workspace_Huawei\CoopGame\Plugins\Developers_Toolkit\Intermediate\Build\Win64\UE4Editor\Development\DevMode_API\Module.DevMode_API.gen.cpp.obj"
+"D:\Jakub_Workspace_Huawei\CoopGame\Plugins\Developers_Toolkit\Intermediate\Build\Win64\UE4Editor\Development\DevMode_API\Default.rc2.res"
+/OUT:"D:\Jakub_Workspace_Huawei\CoopGame\Plugins\Developers_Toolkit\Intermediate\Build\Win64\UE4Editor\Development\DevMode_API\UE4Editor-DevMode_API.lib"
+/INCLUDE:IMPLEMENT_MODULE_DevMode_API

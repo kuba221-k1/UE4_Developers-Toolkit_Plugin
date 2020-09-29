@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DevMode_API.cpp.obj": [
+			"DevMode_API.cpp.obj",
+			"DevMode_API_BPLibrary.cpp.obj"
+		],
+		"Module.DevMode_API.gen.cpp.obj": [
+			"DevMode_API.init.gen.cpp.obj",
+			"DevMode_API_BPLibrary.gen.cpp.obj"
+		]
+	}
+}

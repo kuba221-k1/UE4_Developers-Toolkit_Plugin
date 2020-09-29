@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Developers_Toolkit-0007.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\FranK\Desktop\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\FranK\Desktop\MyProject\Plugins\Developers_Toolkit\Intermediate\Build\Win64\UE4Editor\Development\Developers_Toolkit\Module.Developers_Toolkit.cpp.obj"
+"C:\Users\FranK\Desktop\MyProject\Plugins\Developers_Toolkit\Intermediate\Build\Win64\UE4Editor\Development\Developers_Toolkit\Default.rc2.res"
+/OUT:"C:\Users\FranK\Desktop\MyProject\Plugins\Developers_Toolkit\Intermediate\Build\Win64\UE4Editor\Development\Developers_Toolkit\UE4Editor-Developers_Toolkit-0007.lib"
+/INCLUDE:IMPLEMENT_MODULE_Developers_Toolkit

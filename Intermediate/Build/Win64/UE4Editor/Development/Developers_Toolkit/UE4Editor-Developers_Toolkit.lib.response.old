@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Developers_Toolkit.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Jakub_Workspace_Huawei\CoopGame\Intermediate\Build\Win64\AI_Coop_GameEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"D:\Jakub_Workspace_Huawei\CoopGame\Plugins\Developers_Toolkit\Intermediate\Build\Win64\UE4Editor\Development\Developers_Toolkit\Module.Developers_Toolkit.cpp.obj"
+"D:\Jakub_Workspace_Huawei\CoopGame\Plugins\Developers_Toolkit\Intermediate\Build\Win64\UE4Editor\Development\Developers_Toolkit\Default.rc2.res"
+/OUT:"D:\Jakub_Workspace_Huawei\CoopGame\Plugins\Developers_Toolkit\Intermediate\Build\Win64\UE4Editor\Development\Developers_Toolkit\UE4Editor-Developers_Toolkit.lib"
+/INCLUDE:IMPLEMENT_MODULE_Developers_Toolkit

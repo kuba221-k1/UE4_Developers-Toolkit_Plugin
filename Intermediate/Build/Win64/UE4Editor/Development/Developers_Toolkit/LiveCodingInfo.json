@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Developers_Toolkit.cpp.obj": [
+			"Developers_Toolkit.cpp.obj",
+			"Developers_ToolkitCommands.cpp.obj",
+			"Developers_ToolkitStyle.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"BuildId": "10570792",
+	"Modules": 
+	{
+		"Developers_Toolkit": "UE4Editor-Developers_Toolkit.dll",
+		"DevMode_API": "UE4Editor-DevMode_API.dll"
+	}
+}

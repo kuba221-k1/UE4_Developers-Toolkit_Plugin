@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DevMode_API.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\FranK\Desktop\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\FranK\Desktop\MyProject\Plugins\Developers_Toolkit\Intermediate\Build\Win64\UE4Editor\Development\DevMode_API\Module.DevMode_API.cpp.obj"
+"C:\Users\FranK\Desktop\MyProject\Plugins\Developers_Toolkit\Intermediate\Build\Win64\UE4Editor\Development\DevMode_API\Module.DevMode_API.gen.cpp.obj"
+"C:\Users\FranK\Desktop\MyProject\Plugins\Developers_Toolkit\Intermediate\Build\Win64\UE4Editor\Development\DevMode_API\Default.rc2.res"
+/OUT:"C:\Users\FranK\Desktop\MyProject\Plugins\Developers_Toolkit\Intermediate\Build\Win64\UE4Editor\Development\DevMode_API\UE4Editor-DevMode_API.lib"
+/INCLUDE:IMPLEMENT_MODULE_DevMode_API
